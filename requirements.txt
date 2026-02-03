@@ -1,0 +1,3 @@
+pandas
+pyttsx3
+datetime
